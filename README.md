@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then EJECTED.
 
-mobx has been included and decorator support added.
+[mobx](https://mobx.js.org) has been included and decorator support added.
 
 
 ## Available Scripts
